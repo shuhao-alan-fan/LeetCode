@@ -11,19 +11,10 @@
  */
 class Solution {
 public:
-    bool flag = true;
+   
     bool isSameTree(TreeNode* p, TreeNode* q) {
-       
-        //base case
-        if(p != nullptr && q != nullptr && p->val != q->val) return false;
-        if(p == nullptr && q != nullptr) return false;
-        if(q == nullptr && p != nullptr) return false;
-        if(q == nullptr && p == nullptr) return true;
-        flag = isSameTree(p->left, q->left);
-        if(flag == true){
-            flag = isSameTree(p->right,q->right);
-        }
-        
-        return flag;
+       if(!p && !q) return true;
+       if(!p || !q || p->val != q->val) return false;
+       return (isSameTree(p->left,q->left)&&isSameTree(p->right,q->right));
     }
 };
