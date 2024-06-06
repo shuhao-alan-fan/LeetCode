@@ -41,3 +41,23 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Alan20030718/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+# Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Alan20030718/LeetCode/tree/master/0295-find-median-from-data-stream) |
+# Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Alan20030718/LeetCode/tree/master/0295-find-median-from-data-stream) |
+# Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Alan20030718/LeetCode/tree/master/0295-find-median-from-data-stream) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Alan20030718/LeetCode/tree/master/0295-find-median-from-data-stream) |
+# Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Alan20030718/LeetCode/tree/master/0295-find-median-from-data-stream) |
