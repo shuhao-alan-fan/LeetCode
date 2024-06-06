@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Alan20030718/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/Alan20030718/LeetCode/tree/master/0191-number-of-1-bits) |
 # Two Pointers
 |  |
 | ------- |
@@ -61,3 +62,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Alan20030718/LeetCode/tree/master/0295-find-median-from-data-stream) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Alan20030718/LeetCode/tree/master/0191-number-of-1-bits) |
