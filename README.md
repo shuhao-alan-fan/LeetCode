@@ -66,3 +66,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Alan20030718/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Alan20030718/LeetCode/tree/master/0338-counting-bits) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Alan20030718/LeetCode/tree/master/0338-counting-bits) |
