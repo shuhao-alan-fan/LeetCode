@@ -7,6 +7,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Alan20030718/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Alan20030718/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Alan20030718/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Alan20030718/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Alan20030718/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 # Breadth-First Search
 |  |
@@ -18,11 +19,13 @@
 | [0098-validate-binary-search-tree](https://github.com/Alan20030718/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Alan20030718/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Alan20030718/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Alan20030718/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Alan20030718/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 # Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Alan20030718/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Alan20030718/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Alan20030718/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 # Binary Search Tree
 |  |
@@ -74,6 +77,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Alan20030718/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Alan20030718/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Alan20030718/LeetCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Alan20030718/LeetCode/tree/master/0338-counting-bits) |
