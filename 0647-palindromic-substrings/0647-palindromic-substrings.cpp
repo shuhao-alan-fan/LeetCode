@@ -1,32 +1,19 @@
 class Solution {
 public:
     int countSubstrings(string s) {
-        //brute foce O(n^2)
-        /*int count = 0, l = 0, counter  =s.size();
-        int r =0;
-        for(int l = 0; l<s.size(); l++){
-            for(int r = l; r<s.size(); r++){
-                if(isPalindrome(s.substr(l,r-l+1))) {
-                    // cout<<s.substr(l,r-l+1)<<l<<r<<endl;
-                    count++;
-                }
-            }
-                
-            
-        }
-        */
-        //DP
+       
         int n = s.size();
-        vector<int> dp(n+1,0);
-        dp[0] = 1;
-        for(int i = 1; i<n; i++){
-            dp[i] = dp[i-1] + 1;
-            for(int j = 0; j<i; j++){
-                dp[i]+=isPalindrome(s.substr(j,i-j+1));
+        int count = 0;
+        for(int i=0; i<n*2-1; i++){
+            int l = i/2;
+            int r = (i+1)/2;
+            while(l>=0 && r<n && s[l] == s[r]){
+                count++;
+                l--;
+                r++;
             }
-           
         }
-        return dp[n-1];
+        return count;
     }
     int isPalindrome(string s){
         int n = s.size();
