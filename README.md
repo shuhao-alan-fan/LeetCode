@@ -51,6 +51,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Alan20030718/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/Alan20030718/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/Alan20030718/LeetCode/tree/master/0647-palindromic-substrings) |
 # Design
@@ -77,6 +78,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Alan20030718/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Alan20030718/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Alan20030718/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Alan20030718/LeetCode/tree/master/0213-house-robber-ii) |
@@ -85,6 +87,7 @@
 # String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Alan20030718/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Alan20030718/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0647-palindromic-substrings](https://github.com/Alan20030718/LeetCode/tree/master/0647-palindromic-substrings) |
 # Sliding Window
