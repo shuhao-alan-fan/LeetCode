@@ -78,6 +78,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Alan20030718/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Alan20030718/LeetCode/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Alan20030718/LeetCode/tree/master/0371-sum-of-two-integers) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -101,3 +102,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Alan20030718/LeetCode/tree/master/0076-minimum-window-substring) |
+# Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Alan20030718/LeetCode/tree/master/0371-sum-of-two-integers) |
