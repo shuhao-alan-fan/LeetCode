@@ -9,10 +9,12 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Alan20030718/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Alan20030718/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Alan20030718/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Alan20030718/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -21,12 +23,14 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Alan20030718/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Alan20030718/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Alan20030718/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Alan20030718/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Alan20030718/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Alan20030718/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -61,6 +65,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Alan20030718/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 # Sorting
 |  |
 | ------- |
@@ -97,6 +102,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Alan20030718/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Alan20030718/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Alan20030718/LeetCode/tree/master/0091-decode-ways) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Alan20030718/LeetCode/tree/master/0647-palindromic-substrings) |
 # Sliding Window
 |  |
