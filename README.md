@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Alan20030718/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Alan20030718/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Alan20030718/LeetCode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Alan20030718/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Alan20030718/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -111,4 +112,9 @@
 # Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Alan20030718/LeetCode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/Alan20030718/LeetCode/tree/master/0371-sum-of-two-integers) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Alan20030718/LeetCode/tree/master/0070-climbing-stairs) |
