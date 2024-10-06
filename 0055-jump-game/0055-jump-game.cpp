@@ -8,9 +8,7 @@ public:
             if(nums[i] >= goal - i){
                 goal = i;
             }
-            else{
-                continue;
-            }
+            
         }
         if(goal == 0) return true;
         return false;
