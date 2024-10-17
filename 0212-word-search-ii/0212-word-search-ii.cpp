@@ -2,6 +2,7 @@
 #include <vector>
 #include <unordered_map>
 #include <unordered_set>
+#include <stack>
 using namespace std;
 
 struct Node {
@@ -23,7 +24,9 @@ public:
         vector<vector<bool>> visited(row, vector<bool>(col, false));
         for(int i = 0; i < row; i++) {
             for(int j = 0; j < col; j++) {
-                dfs(i, j, board, root, "", visited);
+                if (root->children.find(board[i][j]) != root->children.end()) {
+                    dfs(i, j, board, root, "", visited);
+                }
             }
         }
         for(const string& word : res) {
@@ -35,28 +38,36 @@ public:
 private:
     void dfs(int i, int j, vector<vector<char>>& board, Node* cur, string word, vector<vector<bool>>& visited) {
         int row = board.size(), col = board[0].size();
-        if(i < 0 || j < 0 || i >= row || j >= col || visited[i][j] || cur == nullptr) {
-            return;
+        stack<tuple<int, int, Node*, string>> stk;
+        stk.push({i, j, cur, word});
+
+        while (!stk.empty()) {
+            auto [x, y, node, currentWord] = stk.top();
+            stk.pop();
+
+            if (x < 0 || y < 0 || x >= row || y >= col || visited[x][y] || node == nullptr) {
+                continue;
+            }
+
+            char c = board[x][y];
+            if (node->children.find(c) == node->children.end()) {
+                continue;
+            }
+
+            visited[x][y] = true;
+            node = node->children[c];
+            currentWord += c;
+            if (node->terminal) {
+                res.insert(currentWord);
+            }
+
+            stk.push({x-1, y, node, currentWord});
+            stk.push({x+1, y, node, currentWord});
+            stk.push({x, y-1, node, currentWord});
+            stk.push({x, y+1, node, currentWord});
+
+            visited[x][y] = false;
         }
-
-        char c = board[i][j];
-        if(cur->children.find(c) == cur->children.end()) {
-            return;
-        }
-
-        visited[i][j] = true;
-        cur = cur->children[c];
-        word += c;
-        if(cur->terminal) {
-            res.insert(word);
-        }
-
-        dfs(i-1, j, board, cur, word, visited);
-        dfs(i+1, j, board, cur, word, visited);
-        dfs(i, j-1, board, cur, word, visited);
-        dfs(i, j+1, board, cur, word, visited);
-
-        visited[i][j] = false;
     }
 
     void build_tree(const vector<string>& words) {
