@@ -1,13 +1,15 @@
+#include <iostream>
+#include <vector>
+#include <unordered_map>
+#include <unordered_set>
+using namespace std;
+
 struct Node {
     char val;
     unordered_map<char, Node*> children;
     bool terminal = false;
-    Node(char value){
-        val = value;
-    }
+    Node(char value) : val(value) {}
 };
-
-
 
 class Solution {
 public:
@@ -17,64 +19,56 @@ public:
         vector<string> sol;
         res.clear();
         build_tree(words);
-        Node* cur = root;
-        for(int i = 0; i<board.size(); i ++){
-            for(int j = 0; j<board[i].size(); j++){
-
-                dfs(i,j,board, cur, "");
-            
+        int row = board.size(), col = board[0].size();
+        vector<vector<bool>> visited(row, vector<bool>(col, false));
+        for(int i = 0; i < row; i++) {
+            for(int j = 0; j < col; j++) {
+                dfs(i, j, board, root, "", visited);
             }
         }
-        for(string i : res){
-            sol.push_back(i);
+        for(const string& word : res) {
+            sol.push_back(word);
         }
         return sol;
     }
 
-    void dfs(int i, int j, vector<vector<char>>& board, Node* & p, string word){
+private:
+    void dfs(int i, int j, vector<vector<char>>& board, Node* cur, string word, vector<vector<bool>>& visited) {
         int row = board.size(), col = board[0].size();
-        Node* cur = p;
-        if(i < 0 || j < 0 || i >= row || j >= col || board[i][j] == '*' || cur == nullptr){
-            return ;
-        }
-        
-        
-        if(cur->children.find(board[i][j]) != cur->children.end()){
-            word = word + board[i][j];
-            
-            cur = cur->children[board[i][j]];
-            if(cur->terminal){
-                res.insert(word);
-            }
-            
-        }
-        else{
+        if(i < 0 || j < 0 || i >= row || j >= col || visited[i][j] || cur == nullptr) {
             return;
         }
-        
+
         char c = board[i][j];
-        board[i][j] = '*';
-        dfs(i-1,j,board,cur,word);
-        dfs(i+1,j,board,cur,word);
-        dfs(i,j-1,board,cur,word);
-        dfs(i,j+1,board,cur,word);
-        board[i][j] = c;
+        if(cur->children.find(c) == cur->children.end()) {
+            return;
+        }
+
+        visited[i][j] = true;
+        cur = cur->children[c];
+        word += c;
+        if(cur->terminal) {
+            res.insert(word);
+        }
+
+        dfs(i-1, j, board, cur, word, visited);
+        dfs(i+1, j, board, cur, word, visited);
+        dfs(i, j-1, board, cur, word, visited);
+        dfs(i, j+1, board, cur, word, visited);
+
+        visited[i][j] = false;
     }
 
-
-    void build_tree(vector<string>& words){
-        for(string s : words){
+    void build_tree(const vector<string>& words) {
+        for(const string& word : words) {
             Node* cur = root;
-            for(char c : s){
-                if(cur->children.find(c) == cur->children.end()){
+            for(char c : word) {
+                if(cur->children.find(c) == cur->children.end()) {
                     cur->children[c] = new Node(c);
                 }
                 cur = cur->children[c];
             }
             cur->terminal = true;
         }
-        
-        return;
     }
-    
 };
