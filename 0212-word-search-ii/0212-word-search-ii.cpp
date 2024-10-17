@@ -65,23 +65,13 @@ public:
     void build_tree(vector<string>& words){
         for(string s : words){
             Node* cur = root;
-            for(int i = 0; i<s.size(); i++){
-                
-                if(cur->children.find(s[i]) != cur->children.end()){
-                    cur = cur->children[s[i]];
+            for(char c : s){
+                if(cur->children.find(c) == cur->children.end()){
+                    cur->children[c] = new Node(c);
                 }
-                else{
-                
-                    Node* n = new Node(s[i]);
-                    cur->children[s[i]] = n;
-                    cur = n;
-                    
-                }
-                if(i == s.size()-1){
-                    cur->terminal = true;
-                }
-                
+                cur = cur->children[c];
             }
+            cur->terminal = true;
         }
         
         return;
