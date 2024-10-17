@@ -34,7 +34,7 @@ public:
     void dfs(int i, int j, vector<vector<char>>& board, Node* & p, string word){
         int row = board.size(), col = board[0].size();
         Node* cur = p;
-        if(i < 0 || j < 0 || i >= row || j >= col || cur == nullptr){
+        if(i < 0 || j < 0 || i >= row || j >= col || board[i][j] == '*' || cur == nullptr){
             return ;
         }
         
