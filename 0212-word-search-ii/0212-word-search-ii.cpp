@@ -1,7 +1,6 @@
 struct Node {
     char val;
-    vector<Node*> children;
-    Node* parent;
+    unordered_map<char, Node*> children;
     bool terminal = false;
     Node(char value){
         val = value;
@@ -38,21 +37,21 @@ public:
         if(i < 0 || j < 0 || i >= row || j >= col || cur == nullptr){
             return ;
         }
-        bool found = false;
-        for(Node* child : cur->children){
-            if(board[i][j] == child->val){
-                cur = child;
-                word = word + child->val;
-                found = true;
-                if(child->terminal){
-                    res.insert(word);
-                }
-                
+        
+        
+        if(cur->children.find(board[i][j]) != cur->children.end()){
+            word = word + board[i][j];
+            
+            cur = cur->children[board[i][j]];
+            if(cur->terminal){
+                res.insert(word);
             }
+            
         }
-        if(!found){
+        else{
             return;
         }
+        
         char c = board[i][j];
         board[i][j] = '*';
         dfs(i-1,j,board,cur,word);
@@ -67,19 +66,14 @@ public:
         for(string s : words){
             Node* cur = root;
             for(int i = 0; i<s.size(); i++){
-                bool found = false;
-                for(Node* p : cur->children){
-                    if(p->val == s[i]){
-                        found = true;
-                        cur = p;
-                        break;
-                    }
+                
+                if(cur->children.find(s[i]) != cur->children.end()){
+                    cur = cur->children[s[i]];
                 }
-                if(!found){
-                    
+                else{
+                
                     Node* n = new Node(s[i]);
-                    n-> parent = cur;
-                    cur->children.push_back(n);
+                    cur->children[s[i]] = n;
                     cur = n;
                     
                 }
@@ -93,7 +87,4 @@ public:
         return;
     }
     
-    bool myfunction (int i, int j) {
-        return (i==j);
-    }
 };
