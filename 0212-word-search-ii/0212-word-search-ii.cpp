@@ -93,4 +93,7 @@ public:
         return;
     }
     
+    bool myfunction (int i, int j) {
+        return (i==j);
+    }
 };
