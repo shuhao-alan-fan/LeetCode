@@ -5,7 +5,9 @@ public:
         vector<bool> visited(n);
         vector<bool> visited_2(n);
         for(auto i : edges){
-            adj[i[0]].push_back(i[1]);          
+            //add for both tree
+            adj[i[0]].push_back(i[1]);
+            adj[i[1]].push_back(i[0]);
         }
         if(isCycleHelper(0,adj,visited,0)){
             return false;
