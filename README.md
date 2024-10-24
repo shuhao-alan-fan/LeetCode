@@ -187,6 +187,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Alan20030718/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Alan20030718/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Alan20030718/LeetCode/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -230,4 +231,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Alan20030718/LeetCode/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Alan20030718/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Alan20030718/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
