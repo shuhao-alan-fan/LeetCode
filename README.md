@@ -178,6 +178,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Alan20030718/LeetCode/tree/master/0212-word-search-ii) |
+| [1250-longest-common-subsequence](https://github.com/Alan20030718/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0053-maximum-subarray](https://github.com/Alan20030718/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Alan20030718/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Alan20030718/LeetCode/tree/master/0062-unique-paths) |
+| [1250-longest-common-subsequence](https://github.com/Alan20030718/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
