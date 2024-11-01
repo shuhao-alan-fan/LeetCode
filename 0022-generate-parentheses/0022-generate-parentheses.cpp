@@ -1,27 +1,30 @@
 class Solution {
 public:
-    
-  
-    void dfs(int sP, int eP, string s, int n, vector<string>& res){
-        cout<<sP<<" "<<eP<<endl;
 
-        if(sP + eP == 2*n && sP == eP ){
-            res.push_back(s);
+    void f(int i, int j, int n, string &s, vector<string> &ans) {
+        if (i == n && j == n) {
+            ans.push_back(s);
             return;
         }
-         if(sP < n){
-            dfs(sP+1,eP,s+"(", n,res);
+        if (i < n) {
+            
+            s.push_back('(');
+            f(i+1,j,n,s,ans);
+            s.pop_back();
         }
-         if (eP < sP){
-            dfs(sP,eP+1, s+")", n,res);
+        if (j < n && j < i) {
+            
+           s.push_back(')');
+            f(i,j+1,n,s,ans);
+            s.pop_back();
         }
-
-        
     }
-      vector<string> generateParenthesis(int n) {
-        vector<string> res;
+
+    vector<string> generateParenthesis(int n) {
         string s = "";
-        dfs(0,0,s,n,res);
-        return res;
+        vector<string> ans;
+        f(0,0,n,s,ans);
+        return ans;
+
     }
 };
