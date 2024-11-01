@@ -1,12 +1,13 @@
 class Solution {
 public:
-    vector<string> res;
+    
     vector<string> generateParenthesis(int n) {
+        vector<string> res;
         string s = "";
-        dfs(0,0,s,n);
+        dfs(0,0,s,n,res);
         return res;
     }
-    void dfs(int sP, int eP, string s, int n){
+    void dfs(int sP, int eP, string s, int n, vector<string>& res){
         cout<<sP<<" "<<eP<<endl;
 
         if(sP + eP == 2*n && sP == eP ){
@@ -14,10 +15,10 @@ public:
             return;
         }
          if(sP < n){
-            dfs(sP+1,eP,s+"(", n);
+            dfs(sP+1,eP,s+"(", n,res);
         }
          if (eP < sP){
-            dfs(sP,eP+1, s+")", n);
+            dfs(sP,eP+1, s+")", n,res);
         }
 
         
