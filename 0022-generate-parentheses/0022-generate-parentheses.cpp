@@ -1,21 +1,25 @@
 class Solution {
 public:
-    void func(int op,int cp,vector<string> &res,string s,int n){
-        if(op==cp && s.size()==2*n){
+    
+  
+    void dfs(int sP, int eP, string s, int n, vector<string>& res){
+        if(sP + eP == 2*n && sP == eP ){
             res.push_back(s);
             return;
         }
-        if(op<n){
-            func(op+1,cp,res,s+"(",n);
+         if(sP < n){
+            dfs(sP+1,eP,s+"(", n,res);
         }
-        if(cp<op){
-            func(op,cp+1,res,s+")",n);
+         if (eP < sP){
+            dfs(sP,eP+1, s+")", n,res);
         }
+
+        
     }
-    vector<string> generateParenthesis(int n) {
+      vector<string> generateParenthesis(int n) {
         vector<string> res;
-        string s;
-        func(0,0,res,s,n);
+        string s = "";
+        dfs(0,0,s,n,res);
         return res;
     }
 };
