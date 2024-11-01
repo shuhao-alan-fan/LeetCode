@@ -1,12 +1,7 @@
 class Solution {
 public:
     
-    vector<string> generateParenthesis(int n) {
-        vector<string> res;
-        string s = "";
-        dfs(0,0,s,n,res);
-        return res;
-    }
+  
     void dfs(int sP, int eP, string s, int n, vector<string>& res){
         cout<<sP<<" "<<eP<<endl;
 
@@ -22,5 +17,11 @@ public:
         }
 
         
+    }
+      vector<string> generateParenthesis(int n) {
+        vector<string> res;
+        string s = "";
+        dfs(0,0,s,n,res);
+        return res;
     }
 };
