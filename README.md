@@ -203,6 +203,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Alan20030718/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Alan20030718/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Alan20030718/LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
