@@ -1,30 +1,21 @@
 class Solution {
 public:
-
-    void f(int i, int j, int n, string &s, vector<string> &ans) {
-        if (i == n && j == n) {
-            ans.push_back(s);
+    void func(int op,int cp,vector<string> &res,string s,int n){
+        if(op==cp && s.size()==2*n){
+            res.push_back(s);
             return;
         }
-        if (i < n) {
-            
-            s.push_back('(');
-            f(i+1,j,n,s,ans);
-            s.pop_back();
+        if(op<n){
+            func(op+1,cp,res,s+"(",n);
         }
-        if (j < n && j < i) {
-            
-           s.push_back(')');
-            f(i,j+1,n,s,ans);
-            s.pop_back();
+        if(cp<op){
+            func(op,cp+1,res,s+")",n);
         }
     }
-
     vector<string> generateParenthesis(int n) {
-        string s = "";
-        vector<string> ans;
-        f(0,0,n,s,ans);
-        return ans;
-
+        vector<string> res;
+        string s;
+        func(0,0,res,s,n);
+        return res;
     }
 };
