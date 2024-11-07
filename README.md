@@ -143,6 +143,7 @@
 | [0055-jump-game](https://github.com/Alan20030718/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Alan20030718/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Alan20030718/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Alan20030718/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Alan20030718/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Alan20030718/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alan20030718/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Alan20030718/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Alan20030718/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Alan20030718/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Alan20030718/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Alan20030718/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Alan20030718/LeetCode/tree/master/0212-word-search-ii) |
@@ -266,6 +268,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Alan20030718/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alan20030718/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0792-binary-search) |
 ## Stack
