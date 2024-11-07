@@ -8,7 +8,6 @@ public:
         for(int i = 0; i< n; i++){
             
             while(!s.empty() && heights[s.top()] > heights[i]){
-                cout<<"hello"<<endl;
                 int a = s.top();
                 s.pop();
                 int prev_smaller = s.empty()? -1 : s.top();
