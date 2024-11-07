@@ -152,6 +152,7 @@
 | [0239-sliding-window-maximum](https://github.com/Alan20030718/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Alan20030718/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0739-daily-temperatures](https://github.com/Alan20030718/LeetCode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
 ## Matrix
 |  |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alan20030718/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0792-binary-search) |
 ## Stack
 |  |
 | ------- |
