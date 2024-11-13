@@ -176,6 +176,7 @@
 | [0133-clone-graph](https://github.com/Alan20030718/LeetCode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Backtracking
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Alan20030718/LeetCode/tree/master/0212-word-search-ii) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/Alan20030718/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
@@ -216,6 +218,7 @@
 | [0155-min-stack](https://github.com/Alan20030718/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Trie
 |  |
 | ------- |
@@ -271,6 +274,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Alan20030718/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alan20030718/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
 | ------- |
