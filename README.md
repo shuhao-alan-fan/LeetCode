@@ -157,6 +157,7 @@
 | [0739-daily-temperatures](https://github.com/Alan20030718/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
+| [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
 ## Matrix
 |  |
 | ------- |
@@ -315,6 +316,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Alan20030718/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
