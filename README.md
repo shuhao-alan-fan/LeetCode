@@ -181,6 +181,7 @@
 | [0133-clone-graph](https://github.com/Alan20030718/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alan20030718/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0355-design-twitter](https://github.com/Alan20030718/LeetCode/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -228,6 +229,7 @@
 | [0155-min-stack](https://github.com/Alan20030718/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0355-design-twitter](https://github.com/Alan20030718/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Trie
@@ -321,6 +323,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alan20030718/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Alan20030718/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/Alan20030718/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
@@ -339,6 +342,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Alan20030718/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alan20030718/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0355-design-twitter](https://github.com/Alan20030718/LeetCode/tree/master/0355-design-twitter) |
 ## Bit Manipulation
 |  |
 | ------- |
