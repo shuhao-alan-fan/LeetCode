@@ -139,6 +139,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Alan20030718/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Alan20030718/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Alan20030718/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Alan20030718/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Alan20030718/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Alan20030718/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Alan20030718/LeetCode/tree/master/0055-jump-game) |
@@ -190,6 +191,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Alan20030718/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Alan20030718/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Alan20030718/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Alan20030718/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Alan20030718/LeetCode/tree/master/0212-word-search-ii) |
 ## String
