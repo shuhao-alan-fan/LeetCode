@@ -159,6 +159,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Alan20030718/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Alan20030718/LeetCode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Alan20030718/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
 | [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
@@ -221,6 +222,7 @@
 | [0053-maximum-subarray](https://github.com/Alan20030718/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Alan20030718/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Alan20030718/LeetCode/tree/master/0062-unique-paths) |
+| [0747-min-cost-climbing-stairs](https://github.com/Alan20030718/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/Alan20030718/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
