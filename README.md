@@ -168,6 +168,7 @@
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
 | [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Alan20030718/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Alan20030718/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -402,6 +404,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Alan20030718/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Line Sweep
 |  |
 | ------- |
