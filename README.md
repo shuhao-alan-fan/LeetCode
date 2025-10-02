@@ -186,6 +186,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Alan20030718/LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Alan20030718/LeetCode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Alan20030718/LeetCode/tree/master/3336-water-bottles-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -300,6 +301,7 @@
 | [0066-plus-one](https://github.com/Alan20030718/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alan20030718/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1642-water-bottles](https://github.com/Alan20030718/LeetCode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Alan20030718/LeetCode/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
 |  |
 | ------- |
