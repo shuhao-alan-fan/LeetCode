@@ -174,6 +174,7 @@
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Alan20030718/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Alan20030718/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [0054-spiral-matrix](https://github.com/Alan20030718/LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Alan20030718/LeetCode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/Alan20030718/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Alan20030718/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -435,4 +437,8 @@
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Alan20030718/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
