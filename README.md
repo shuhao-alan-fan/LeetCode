@@ -172,6 +172,7 @@
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
 | [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Alan20030718/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
@@ -325,6 +326,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alan20030718/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Alan20030718/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | [0794-swim-in-rising-water](https://github.com/Alan20030718/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
 | ------- |
@@ -385,6 +388,7 @@
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Linked List
 |  |
 | ------- |
