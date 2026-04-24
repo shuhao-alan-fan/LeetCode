@@ -231,6 +231,7 @@
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/Alan20030718/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [2833-furthest-point-from-origin](https://github.com/Alan20030718/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -434,6 +435,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
+| [2833-furthest-point-from-origin](https://github.com/Alan20030718/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Alan20030718/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Line Sweep
 |  |
