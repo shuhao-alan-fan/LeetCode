@@ -174,6 +174,7 @@
 | [0792-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Alan20030718/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Alan20030718/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -216,6 +217,7 @@
 | [0355-design-twitter](https://github.com/Alan20030718/LeetCode/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Alan20030718/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2615-sum-of-distances](https://github.com/Alan20030718/LeetCode/tree/master/2615-sum-of-distances) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Alan20030718/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -447,6 +449,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Alan20030718/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2833-furthest-point-from-origin](https://github.com/Alan20030718/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Alan20030718/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Line Sweep
