@@ -217,6 +217,7 @@
 | [0133-clone-graph](https://github.com/Alan20030718/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alan20030718/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Alan20030718/LeetCode/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/Alan20030718/LeetCode/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
@@ -245,6 +246,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Alan20030718/LeetCode/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/Alan20030718/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/Alan20030718/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -412,6 +414,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Alan20030718/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alan20030718/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Alan20030718/LeetCode/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
