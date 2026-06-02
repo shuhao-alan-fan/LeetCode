@@ -6,10 +6,7 @@ public:
         for(string s:strs){
             string unsort = s;
             sort(s.begin(),s.end());
-            if(mp.find(s) == mp.end()) mp[s].push_back(unsort);
-            else{
-                mp[s].push_back(unsort);
-            }
+            mp[s].push_back(unsort);
         }
         vector<vector<string>> ans;
         for(const auto & [ana,list] : mp){
