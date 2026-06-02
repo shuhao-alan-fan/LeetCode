@@ -219,6 +219,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Alan20030718/LeetCode/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/Alan20030718/LeetCode/tree/master/0355-design-twitter) |
+| [0383-ransom-note](https://github.com/Alan20030718/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Alan20030718/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -247,6 +248,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Alan20030718/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Alan20030718/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Alan20030718/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/Alan20030718/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -459,6 +461,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Alan20030718/LeetCode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Alan20030718/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Alan20030718/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
