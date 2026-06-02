@@ -141,6 +141,7 @@
 | [0039-combination-sum](https://github.com/Alan20030718/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Alan20030718/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Alan20030718/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Alan20030718/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Alan20030718/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Alan20030718/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Alan20030718/LeetCode/tree/master/0054-spiral-matrix) |
@@ -211,6 +212,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Alan20030718/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Alan20030718/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/Alan20030718/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alan20030718/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -237,6 +239,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Alan20030718/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Alan20030718/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Alan20030718/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Alan20030718/LeetCode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/Alan20030718/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -407,6 +410,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Alan20030718/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alan20030718/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
