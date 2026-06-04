@@ -136,6 +136,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Alan20030718/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alan20030718/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Alan20030718/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Alan20030718/LeetCode/tree/master/0039-combination-sum) |
@@ -212,6 +213,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Alan20030718/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Alan20030718/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Alan20030718/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/Alan20030718/LeetCode/tree/master/0133-clone-graph) |
