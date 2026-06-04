@@ -155,6 +155,7 @@
 | [0079-word-search](https://github.com/Alan20030718/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Alan20030718/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Alan20030718/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Alan20030718/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alan20030718/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alan20030718/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Alan20030718/LeetCode/tree/master/0200-number-of-islands) |
@@ -272,6 +273,7 @@
 | [0055-jump-game](https://github.com/Alan20030718/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Alan20030718/LeetCode/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/Alan20030718/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Alan20030718/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Alan20030718/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Alan20030718/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Alan20030718/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
