@@ -430,6 +430,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Alan20030718/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Alan20030718/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alan20030718/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Alan20030718/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -441,6 +442,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Alan20030718/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Alan20030718/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Alan20030718/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Alan20030718/LeetCode/tree/master/0206-reverse-linked-list) |
