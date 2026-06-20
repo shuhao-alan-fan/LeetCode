@@ -139,6 +139,7 @@
 | [0001-two-sum](https://github.com/Alan20030718/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alan20030718/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Alan20030718/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Alan20030718/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Alan20030718/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Alan20030718/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Alan20030718/LeetCode/tree/master/0046-permutations) |
@@ -245,6 +246,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Alan20030718/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alan20030718/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Alan20030718/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Alan20030718/LeetCode/tree/master/0049-group-anagrams) |
@@ -300,6 +302,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Alan20030718/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Alan20030718/LeetCode/tree/master/0212-word-search-ii) |
