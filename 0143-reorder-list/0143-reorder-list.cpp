@@ -8,46 +8,45 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+//  cut in half, reverse second half, merge two list
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        if(head->next == nullptr) return;
-        ListNode *slow = head;
-        ListNode *fast = head;
-
-        while(fast != nullptr && fast->next != nullptr){
-            slow = slow->next;
-            fast = fast->next->next;
+        ListNode* c = head;
+        int count = 1;
+        while(c && c->next){
+            c = c->next;
+            count++;
         }
-        ListNode *l2 = slow->next;
-        slow ->next = nullptr;
+        if(count == 1) return;
+        int half = count/2;
+        ListNode* p1 = head;
+        ListNode* p2 = head;
+        ListNode* prev = nullptr;
+        for(int i = 0; i<half; i++){
+            prev = p2;
+            p2 = p2->next;
+        }
+        prev->next = nullptr;
+        //reverse
+        ListNode* p = nullptr;
+        while(p2){
+            ListNode* n = p2->next;
+            p2->next = p;
+            p = p2;
+            p2 = n;
+        }
+        p2 = p;
+        //merge
+        while(p1 && p2){
+            ListNode* n1 = p1->next;
+            ListNode* n2 = p2->next;
 
-        if(l2 == nullptr) return;
-        l2 = inverseLinkedList(l2); // inversed linkedlist;
+            p1->next = p2;
+            if (n1) p2->next = n1;
+            p1 = n1;
+            p2 = n2;
+        }
         
-        ListNode *l1 = head;
-        while(l1 != nullptr && l2!= nullptr){
-            ListNode *temp = l2;
-            l2 = l2->next;
-            ListNode *temp2 = l1;
-            l1 = l1->next;
-            temp2->next = temp;
-            temp->next = l1;
-        }
-        
-        return;
-    }
-    ListNode* inverseLinkedList(ListNode * head){
-        ListNode * prev = nullptr;
-        ListNode * cur = head;
-        while(cur != nullptr){
-            ListNode * temp = cur;
-            cur = cur->next;
-            temp->next = prev;
-            prev = temp;
-            
-        }
-        return prev;
-
     }
 };
