@@ -1,18 +1,17 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        // how to compare the chars between two strings
-        unordered_map<string,vector<string>> mp;
-        for(string s:strs){
-            string unsort = s;
-            sort(s.begin(),s.end());
-            mp[s].push_back(unsort);
-        }
+        unordered_map<string,vector<string>> map;
         vector<vector<string>> ans;
-        for(const auto & [ana,list] : mp){
-            ans.push_back(list);
+        for(string str: strs){
+            string temp = str;
+            sort(str.begin(),str.end());
+            map[str].push_back(temp);
+            
+        }
+        for(auto& [list,vec]:map){
+            ans.push_back(vec);
         }
         return ans;
-        
     }
 };
