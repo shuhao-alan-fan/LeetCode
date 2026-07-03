@@ -1,17 +1,16 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        int count[26] = {0};
+        unordered_map<char,int> map;
+        for(char c : magazine){
+            map[c]++;
+        }
         for(char c:ransomNote){
-            count[c - 'a']--;
+            if(map.find(c) == map.end()) return false;
+            map[c]--;
         }
-        
-        for(char c:magazine){
-            count[c - 'a']++;
-        }
-
-        for(int i = 0; i<26; i++){
-            if(count[i] < 0) return false;
+        for(const auto & [c,i] : map){
+            if(i<0) return false;
         }
         return true;
     }
