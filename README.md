@@ -223,6 +223,7 @@
 | [0133-clone-graph](https://github.com/Alan20030718/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alan20030718/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Alan20030718/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Alan20030718/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Alan20030718/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Alan20030718/LeetCode/tree/master/0242-valid-anagram) |
@@ -256,6 +257,7 @@
 | [0079-word-search](https://github.com/Alan20030718/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Alan20030718/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Alan20030718/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/Alan20030718/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Alan20030718/LeetCode/tree/master/0212-word-search-ii) |
