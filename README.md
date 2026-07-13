@@ -226,6 +226,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Alan20030718/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Alan20030718/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Alan20030718/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Alan20030718/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Alan20030718/LeetCode/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Alan20030718/LeetCode/tree/master/0383-ransom-note) |
@@ -259,6 +260,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Alan20030718/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Alan20030718/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Alan20030718/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Alan20030718/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
