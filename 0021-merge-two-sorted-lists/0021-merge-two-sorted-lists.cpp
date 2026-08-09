@@ -37,18 +37,10 @@ public:
             }
         }
         if(list1 == nullptr){
-            while(list2){
-                cur->next = list2;
-                list2 = list2->next;
-                cur = cur->next;
-            }
+            cur->next = list2;
         }
         else if(list2 == nullptr){
-            while(list1){
-                cur->next = list1;
-                list1 = list1->next;
-                cur = cur->next;
-            }
+           cur->next = list1;
         }
         return head;
     }
