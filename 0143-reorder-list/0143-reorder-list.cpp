@@ -8,45 +8,44 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-//  cut in half, reverse second half, merge two list
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        ListNode* c = head;
-        int count = 1;
-        while(c && c->next){
-            c = c->next;
-            count++;
-        }
-        if(count == 1) return;
-        int half = count/2;
-        ListNode* p1 = head;
-        ListNode* p2 = head;
+        ListNode* slow = head;
+        ListNode* fast = head;
         ListNode* prev = nullptr;
-        for(int i = 0; i<half; i++){
-            prev = p2;
-            p2 = p2->next;
+        while(fast && fast->next){
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        prev->next = nullptr;
-        //reverse
-        ListNode* p = nullptr;
-        while(p2){
-            ListNode* n = p2->next;
-            p2->next = p;
-            p = p2;
-            p2 = n;
+        if(fast == head) return;
+        if(prev) prev->next = nullptr;
+        prev = nullptr;
+        ListNode* cur = slow;
+        while(cur){
+            ListNode* temp = cur->next;
+            cur->next = prev;
+            prev = cur;
+            cur = temp;
         }
-        p2 = p;
-        //merge
-        while(p1 && p2){
-            ListNode* n1 = p1->next;
-            ListNode* n2 = p2->next;
+        
 
-            p1->next = p2;
-            if (n1) p2->next = n1;
-            p1 = n1;
-            p2 = n2;
+        ListNode* list1 = head;
+        ListNode* list2 = prev;
+        ListNode* temp1 = nullptr;
+        ListNode* temp2 = nullptr;
+        while(list1 && list2){
+            temp1 = list1->next;
+            temp2 = list2->next;
+            
+            list1->next = list2;
+            if(!temp1) break;
+            list2->next = temp1;
+            list1 = temp1;
+            list2 = temp2;
         }
+        return;
         
     }
 };
