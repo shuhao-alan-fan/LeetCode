@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        int left = 0;
+        int right = nums.size();
+        while(left < right){
+            int mid = left + (right - left) / 2;
+            int num = nums[mid];
+            cout<<num<<endl;
+            if(num == target) return mid;
+            else if(num > target) right = mid;
+            else left = mid+1;
+        }
+        return -1;
+    }
+};
