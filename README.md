@@ -237,6 +237,7 @@
 | [0383-ransom-note](https://github.com/Alan20030718/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
+| [0981-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Alan20030718/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Alan20030718/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -270,6 +271,7 @@
 | [0344-reverse-string](https://github.com/Alan20030718/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Alan20030718/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/Alan20030718/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Alan20030718/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -310,6 +312,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0355-design-twitter](https://github.com/Alan20030718/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0981-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Trie
 |  |
@@ -396,6 +399,7 @@
 | [0704-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Alan20030718/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0981-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
