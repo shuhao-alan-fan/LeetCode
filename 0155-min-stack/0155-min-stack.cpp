@@ -1,33 +1,31 @@
-// O(1)怎么可能呢，所有都是O(1)的话没办法push和pop的同时留住min
-
 class MinStack {
-private: 
-    stack<pair<int,int>> s;
+private:
+    stack<int> sta1;
+    stack<int> sta2;
 public:
     
+
     MinStack() {
         
     }
     
     void push(int value) {
-        if(s.empty()) s.push(make_pair(value, value));
-        else{
-            int min_val = min(value, s.top().second);
-            s.push(make_pair(value, min_val));
-        }
-
+        sta1.push(value);
+        if(sta2.empty() || sta2.top() >= value) sta2.push(value);
     }
     
     void pop() {
-        s.pop();
+        if(sta1.top() == sta2.top()) sta2.pop();
+        sta1.pop();
+        
     }
     
     int top() {
-        return s.top().first;
+        return sta1.top();
     }
     
     int getMin() {
-        return s.top().second;
+        return sta2.top();
     }
 };
 
