@@ -364,6 +364,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Alan20030718/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Alan20030718/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Alan20030718/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Alan20030718/LeetCode/tree/master/0066-plus-one) |
