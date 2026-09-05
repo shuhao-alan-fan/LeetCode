@@ -1,19 +1,19 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        queue<int> zeros;
-        for(int i = 0; i< nums.size(); i++){
-            if(nums[i] == 0){
-                zeros.push(i);
-                continue;
+        int left = 0, right = 1;
+        while(right < nums.size()){
+            if(nums[left] == 0 && nums[right] != 0){
+                swap(nums[left],nums[right]);
+                left++;
+                right++;
+            }
+            else if(nums[left] == 0 && nums[right] == 0){
+                right++;
             }
             else{
-                if(!zeros.empty()){
-                    int idx = zeros.front();
-                    zeros.pop();
-                    swap(nums[idx], nums[i]);
-                    zeros.push(i);
-                }
+                left++;
+                right++;
             }
         }
     }
