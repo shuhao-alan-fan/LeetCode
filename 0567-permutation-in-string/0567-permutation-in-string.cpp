@@ -11,9 +11,11 @@ public:
         }
         if(cnt1 == cnt2) return true;
         for(int i = n; i<s2.size(); i++){
-            cnt2[s2[i] - 'a'] ++;
-            cnt2[s2[i-n] - 'a']--;
-            if(cnt2[s2[i-n] - 'a'] == 0) cnt2.erase(s2[i-n] - 'a');
+            int in = s2[i] - 'a';
+            int out = s2[i-n] - 'a';
+            cnt2[in] ++;
+            cnt2[out]--;
+            if(cnt2[out] == 0) cnt2.erase(out);
             if(cnt1 == cnt2) return true;
         }
         return false;
