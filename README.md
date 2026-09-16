@@ -173,6 +173,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Alan20030718/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Alan20030718/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/Alan20030718/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Alan20030718/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/Alan20030718/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Alan20030718/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Alan20030718/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -239,6 +240,7 @@
 | [0268-missing-number](https://github.com/Alan20030718/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Alan20030718/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Alan20030718/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Alan20030718/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/Alan20030718/LeetCode/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Alan20030718/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
@@ -396,6 +398,7 @@
 | [0283-move-zeroes](https://github.com/Alan20030718/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Alan20030718/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Alan20030718/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Alan20030718/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
@@ -409,6 +412,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Alan20030718/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Alan20030718/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Alan20030718/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Alan20030718/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Alan20030718/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Alan20030718/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -474,6 +478,7 @@
 | [0242-valid-anagram](https://github.com/Alan20030718/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alan20030718/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Alan20030718/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Alan20030718/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Alan20030718/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0853-car-fleet) |
