@@ -1,23 +1,20 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        unordered_map<char,int> ms1, ms2;
-        int len = s1.size();
-        if(len > s2.size()) return false;
-        for(char c : s1){
-            ms1[c]++;
+        unordered_map<int,int> cnt1;
+        unordered_map<int,int> cnt2;
+        int n = s1.size();
+        if(n > s2.size()) return false;
+        for(int i = 0; i<n; i++){
+            cnt1[s1[i] - 'a']++;
+            cnt2[s2[i] - 'a']++;
         }
-        for(int i = 0; i<len; i++){
-            ms2[s2[i]]++;
-        }
-        if(ms1 == ms2) return true;
-        for(int i = len; i<s2.size(); i++){
-            ms2[s2[i - len]]--;
-            ms2[s2[i]]++;
-            if(ms2[s2[i-len]] == 0){
-                ms2.erase(s2[i-len]);
-            }
-            if(ms1 == ms2) return true;
+        if(cnt1 == cnt2) return true;
+        for(int i = n; i<s2.size(); i++){
+            cnt2[s2[i] - 'a'] ++;
+            cnt2[s2[i-n] - 'a']--;
+            if(cnt2[s2[i-n] - 'a'] == 0) cnt2.erase(s2[i-n] - 'a');
+            if(cnt1 == cnt2) return true;
         }
         return false;
     }
