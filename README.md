@@ -559,4 +559,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Alan20030718/LeetCode/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Alan20030718/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
