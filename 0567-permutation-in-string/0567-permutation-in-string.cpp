@@ -1,9 +1,8 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        unordered_map<int,int> cnt1;
-        unordered_map<int,int> cnt2;
-        int n = s1.size();
+        array<int,26> cnt1{}, cnt2{};
+        int n = s1.size(), m = s2.size();
         if(n > s2.size()) return false;
         for(int i = 0; i<n; i++){
             cnt1[s1[i] - 'a']++;
@@ -15,7 +14,6 @@ public:
             int out = s2[i-n] - 'a';
             cnt2[in] ++;
             cnt2[out]--;
-            if(cnt2[out] == 0) cnt2.erase(out);
             if(cnt1 == cnt2) return true;
         }
         return false;
