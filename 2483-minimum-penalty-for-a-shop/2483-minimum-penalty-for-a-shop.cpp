@@ -18,17 +18,22 @@ public:
                 nos++;
             }
         }
+        int ans = customers.size(), min = nos;
         dp[customers.size()] = nos;
         for(int i = customers.size() - 1; i>=0; i--){
             if(customers[i] == 'Y') dp[i] = dp[i+1] + 1;
             else dp[i] = dp[i+1] - 1;
+            if(dp[i] <= min){
+                min = dp[i];
+                ans = i;
+            }
         }
-        vector<pair<int,int>> ans;
-        for(int i = 0; i<customers.size()+ 1; i++){
+        // vector<pair<int,int>> ans;
+        // for(int i = 0; i<customers.size()+ 1; i++){
             
-            ans.push_back({dp[i],i});
-        }
-        sort(ans.begin(),ans.end());
-        return ans[0].second;
+        //     ans.push_back({dp[i],i});
+        // }
+        // sort(ans.begin(),ans.end());
+        return ans;
     }
 };
