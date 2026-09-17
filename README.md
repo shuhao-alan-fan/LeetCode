@@ -290,6 +290,7 @@
 | [1023-time-based-key-value-store](https://github.com/Alan20030718/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/Alan20030718/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Alan20030718/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Alan20030718/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/Alan20030718/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Divide and Conquer
 |  |
@@ -560,6 +561,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Alan20030718/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Alan20030718/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Alan20030718/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2615-sum-of-distances](https://github.com/Alan20030718/LeetCode/tree/master/2615-sum-of-distances) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Alan20030718/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bucket Sort
