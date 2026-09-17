@@ -18,12 +18,10 @@ public:
                 nos++;
             }
         }
-        cout<<nos<<endl;
         dp[customers.size()] = nos;
         for(int i = customers.size() - 1; i>=0; i--){
             if(customers[i] == 'Y') dp[i] = dp[i+1] + 1;
             else dp[i] = dp[i+1] - 1;
-            cout<<dp[i]<<i<<endl;
         }
         vector<pair<int,int>> ans;
         for(int i = 0; i<customers.size()+ 1; i++){
