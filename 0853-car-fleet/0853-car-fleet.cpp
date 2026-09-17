@@ -1,29 +1,23 @@
 class Solution {
 public:
     int carFleet(int target, vector<int>& position, vector<int>& speed) {
-        vector<pair<int,int>> p_map;
-        vector<double> time;
+        vector<pair<int,int>> car;
         for(int i = 0; i<position.size(); i++){
-            p_map.push_back({position[i], speed[i]});
+            car.push_back({position[i], speed[i]});
         }
-        sort(p_map.rbegin(), p_map.rend());
-        for(int i = 0; i<p_map.size(); i++){
-            time.push_back(double(target - p_map[i].first) / p_map[i].second);
+        sort(car.rbegin(),car.rend());
+        vector<double> time;
+        for(int i = 0; i<car.size(); i++){
+            time.push_back(double(target - car[i].first) / car[i].second);
         }
-        int fleets = 1;
-        double cur_fleet = time[0];
-        for(int i = 1; i<time.size(); i++){
-            if(time[i] > cur_fleet){
-                fleets++;
-                cur_fleet = time[i];
+        int ans = 0;
+        double prev_fleet = 0;
+        for(double i:time){
+            if(i > prev_fleet){
+                prev_fleet = i;
+                ans++;
             }
         }
-        return fleets;
+        return ans;
     }
 };
-
-
-//16 12 11 8 7
-//10 9  9  6 7
-
-//.1 .5 .6 1.5 1.29 
