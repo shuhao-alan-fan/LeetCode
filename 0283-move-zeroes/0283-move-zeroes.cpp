@@ -4,13 +4,8 @@ public:
         int n = nums.size();
         if(n == 1) return;
         int l = 0;
-        for(int r = 1; r<n; r++){
-            if(nums[l] != 0) l++;
-            if(r < n && nums[l] == 0 && nums[r] != 0){
-                swap(nums[l],nums[r]);
-                l++;
-            }
-            
+        for(int r = 0; r<n; r++){
+            if(nums[r] != 0) swap(nums[l++],nums[r]);
         }
     }
 };
