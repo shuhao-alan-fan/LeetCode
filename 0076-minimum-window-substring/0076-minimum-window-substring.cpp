@@ -1,26 +1,34 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if (s.empty() || t.empty() || s.length() < t.length()) {
-            return "";
+        unordered_map<int,int> tmap;
+        if(s.size() < t.size() || s == "" || t == "") return "";
+        // unordered_map<int,int> smap;
+        int cnt = t.size();
+        pair<int,int> best = {0,s.size()};
+        for(char c: t){
+            tmap[c]++;
         }
-        vector<int> v(128,0);
-        for(auto i:t){
-            v[i]++;
-        }
-        int l = 0, r = 0, count = t.size(), min_len = INT_MAX, startIndex = 0;
-        while(r<s.size()){
-            if(v[s[r++]]-- >0) count--;
-            while(count == 0){
-                if(r - l<min_len){
-                    min_len = r-l;
-                    startIndex = l;
+        int left = 0;
+        for(int right = 0; right< s.size(); right++){
+            
+            if(tmap.count(s[right])){
+                if(tmap[s[right]] > 0) cnt--;
+                tmap[s[right]]--;
+                
+            }
+
+            while(cnt == 0){
+                if(right - left + 1 < best.second - best.first + 1){
+                    best = {left,right};
                 }
-                if(v[s[l++]]++ == 0){
-                    count++;
+                if(tmap.count(s[left])){   
+                    tmap[s[left]]++;
+                    if(tmap[s[left]] > 0) cnt++;
                 }
+                left++;
             }
         }
-        return min_len == INT_MAX ? "" : s.substr(startIndex, min_len);
+        return best.second - best.first == s.size() ? "" : s.substr(best.first, best.second - best.first + 1);
     }
 };
