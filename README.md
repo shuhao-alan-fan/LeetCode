@@ -163,6 +163,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alan20030718/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alan20030718/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alan20030718/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Alan20030718/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Alan20030718/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alan20030718/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Alan20030718/LeetCode/tree/master/0212-word-search-ii) |
@@ -237,6 +238,7 @@
 | [0133-clone-graph](https://github.com/Alan20030718/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alan20030718/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Alan20030718/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Alan20030718/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Alan20030718/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alan20030718/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Alan20030718/LeetCode/tree/master/0217-contains-duplicate) |
@@ -299,6 +301,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alan20030718/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Alan20030718/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Alan20030718/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alan20030718/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Alan20030718/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
@@ -488,6 +491,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Alan20030718/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Alan20030718/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Alan20030718/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alan20030718/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Alan20030718/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Alan20030718/LeetCode/tree/master/0242-valid-anagram) |
@@ -550,6 +554,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Alan20030718/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Alan20030718/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Alan20030718/LeetCode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
@@ -593,4 +598,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Alan20030718/LeetCode/tree/master/0070-climbing-stairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Alan20030718/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
