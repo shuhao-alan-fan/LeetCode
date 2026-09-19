@@ -197,6 +197,7 @@
 | [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Alan20030718/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/Alan20030718/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2615-sum-of-distances](https://github.com/Alan20030718/LeetCode/tree/master/2615-sum-of-distances) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Alan20030718/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -225,6 +226,7 @@
 | [0498-diagonal-traverse](https://github.com/Alan20030718/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Alan20030718/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1642-water-bottles](https://github.com/Alan20030718/LeetCode/tree/master/1642-water-bottles) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/Alan20030718/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [3336-water-bottles-ii](https://github.com/Alan20030718/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Alan20030718/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
