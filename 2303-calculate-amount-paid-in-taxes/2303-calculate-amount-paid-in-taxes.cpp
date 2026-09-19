@@ -5,9 +5,9 @@ public:
         int prev = 0;
         for(auto b : brackets){
             int segment = b[0], rate = b[1];
-            if(income <= prev) break;
-            if(segment > income) sum+= (double)(income - prev)*rate * 0.01;
-            else sum+= (double)(segment - prev)*rate * 0.01;
+            int taxable = min(income, segment) - prev;
+            if(taxable <= 0) break;
+            sum+= (double)taxable *rate * 0.01;
             prev = segment;
         }
         return sum;
