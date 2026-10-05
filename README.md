@@ -195,6 +195,7 @@
 | [0853-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/Alan20030718/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Alan20030718/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Alan20030718/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -430,6 +431,7 @@
 | [0344-reverse-string](https://github.com/Alan20030718/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Alan20030718/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Alan20030718/LeetCode/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Alan20030718/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
@@ -518,6 +520,7 @@
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/Alan20030718/LeetCode/tree/master/0883-car-fleet) |
+| [0977-squares-of-a-sorted-array](https://github.com/Alan20030718/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Alan20030718/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Linked List
