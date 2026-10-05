@@ -363,6 +363,7 @@
 | [0226-invert-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/Alan20030718/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Alan20030718/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Alan20030718/LeetCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Alan20030718/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -549,6 +550,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -556,6 +558,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -646,4 +649,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Alan20030718/LeetCode/tree/master/0146-lru-cache) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
