@@ -1,21 +1,26 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        array<int,26> cnt1{}, cnt2{};
-        int n = s1.size(), m = s2.size();
-        if(n > s2.size()) return false;
+        unordered_map<int,int> cnt1;
+        unordered_map<int,int> cnt2;
+        for(auto c: s1){
+            cnt1[c - 'a']++;
+        }
+        int l = 0, n = s1.size(), m = s2.size();
+        if(n > m) return false;
         for(int i = 0; i<n; i++){
-            cnt1[s1[i] - 'a']++;
-            cnt2[s2[i] - 'a']++;
+            cnt2[s2[i]-'a']++;
         }
         if(cnt1 == cnt2) return true;
-        for(int i = n; i<s2.size(); i++){
-            int in = s2[i] - 'a';
-            int out = s2[i-n] - 'a';
-            cnt2[in] ++;
-            cnt2[out]--;
+
+        for(int r = l + n; r<m; r++){
+            cnt2[s2[r] - 'a']++;
+            cnt2[s2[l] - 'a']--;
+            if(cnt2[s2[l] - 'a'] == 0) cnt2.erase(s2[l] - 'a');
+            l++;
             if(cnt1 == cnt2) return true;
         }
         return false;
+        
     }
 };
