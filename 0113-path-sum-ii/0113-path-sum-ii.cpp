@@ -15,24 +15,20 @@ public:
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         if(!root) return {};
         vector<vector<int>> ans;
-
-        dfs(0,targetSum, root,{}, ans);
+        vector<int> path;
+        dfs(0,targetSum, root, path, ans);
         return ans;
     }
-    void dfs(int sum, int& targetSum, TreeNode* cur, vector<int> path, vector<vector<int>>& ans){
+    void dfs(int sum, int& targetSum, TreeNode* cur, vector<int>& path, vector<vector<int>>& ans){
         if(!cur) return;
         sum += cur->val;
         path.push_back(cur->val);
-        if(sum == targetSum){
-            if(!cur->left && !cur->right){
-                ans.push_back(path);
-                return;
-            }
+        if(sum == targetSum && !cur->left && !cur->right){
+            ans.push_back(path);
         }
-       
+        
         dfs(sum, targetSum, cur->left, path, ans);
         dfs(sum, targetSum, cur->right, path, ans);
-
-        return;
+        path.pop_back();
     }
 };
