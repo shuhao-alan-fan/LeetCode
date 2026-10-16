@@ -358,6 +358,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Alan20030718/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Alan20030718/LeetCode/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/Alan20030718/LeetCode/tree/master/0133-clone-graph) |
@@ -556,6 +557,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Alan20030718/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Alan20030718/LeetCode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -565,6 +567,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Alan20030718/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Alan20030718/LeetCode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -574,6 +577,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Alan20030718/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
