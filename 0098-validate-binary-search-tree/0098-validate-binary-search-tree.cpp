@@ -12,13 +12,11 @@
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
-        return validSubTree(root,LLONG_MIN,LLONG_MAX);
+        return dfs(root, LLONG_MIN, LLONG_MAX);
     }
-
-    bool validSubTree(TreeNode* root, long lo, long hi){
+    bool dfs(TreeNode* root, long long low, long long high){
         if(!root) return true;
-        if(root->val <= lo || root->val >= hi) return false;
-        return validSubTree(root->left,lo,root->val) && validSubTree(root->right, root->val, hi);
+        if(root->val >= high || root->val <= low) return false;
+        return dfs(root->left, low, (long long)root->val) && dfs(root->right, (long long)root->val, high);
     }
-    
 };
