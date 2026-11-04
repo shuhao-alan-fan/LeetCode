@@ -11,19 +11,21 @@
  */
 class Solution {
 public:
-        vector<int> v;
-
     int kthSmallest(TreeNode* root, int k) {
-        preorder(root);
-        sort(v.begin(),v.end());
+        TreeNode* cur = root;
         
-        return v[k-1];
+        inorder_dfs(cur,root,k);
+        return cur->val;
     }
-    void preorder(TreeNode* root){
+    
+    void inorder_dfs(TreeNode*& cur, TreeNode* root, int& k){
         if(!root) return;
-        v.push_back(root->val);
-        preorder(root->left);
-        preorder(root->right);
-        return;
+        inorder_dfs(cur, root->left, k);
+        if(--k == 0){
+            cur = root;
+            return;
+        }
+        cout<<"here"<<k<<endl;
+        inorder_dfs(cur,root->right, k);
     }
 };
