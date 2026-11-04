@@ -366,6 +366,7 @@
 | [0207-course-schedule](https://github.com/Alan20030718/LeetCode/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alan20030718/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Alan20030718/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0399-evaluate-division](https://github.com/Alan20030718/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Alan20030718/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -561,6 +562,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Alan20030718/LeetCode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Alan20030718/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -571,6 +573,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Alan20030718/LeetCode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Alan20030718/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Alan20030718/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -578,6 +581,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Alan20030718/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Alan20030718/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
