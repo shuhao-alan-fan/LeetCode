@@ -13,7 +13,6 @@ class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
         TreeNode* cur = root;
-        
         inorder_dfs(cur,root,k);
         return cur->val;
     }
@@ -25,7 +24,6 @@ public:
             cur = root;
             return;
         }
-        cout<<"here"<<k<<endl;
         inorder_dfs(cur,root->right, k);
     }
 };
