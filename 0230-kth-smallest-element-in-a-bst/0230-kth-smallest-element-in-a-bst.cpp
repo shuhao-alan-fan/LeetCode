@@ -12,13 +12,13 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        TreeNode* cur = root;
+        TreeNode* cur = nullptr;
         inorder_dfs(cur,root,k);
         return cur->val;
     }
     
     void inorder_dfs(TreeNode*& cur, TreeNode* root, int& k){
-        if(!root) return;
+        if(!root || cur) return;
         inorder_dfs(cur, root->left, k);
         if(--k == 0){
             cur = root;
