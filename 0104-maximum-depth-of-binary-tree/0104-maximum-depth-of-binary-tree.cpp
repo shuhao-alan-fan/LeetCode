@@ -12,15 +12,16 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
+        int ans = 0;
+        dfs(root,0, ans);
+        return ans;
+    }
 
-        return dfs(root, 0);
-    } 
-    int dfs(TreeNode* root, int max_len){
-        
-        if(root){
-            max_len += 1;
-            return max(dfs(root->left,max_len),dfs(root->right,max_len));
-        }
-        return max_len;
+    void dfs(TreeNode* root, int depth, int& max_depth){
+        if(!root) return;
+        depth++;
+        max_depth = max(depth, max_depth);
+        dfs(root->left, depth, max_depth);
+        dfs(root->right, depth, max_depth);
     }
 };
