@@ -198,6 +198,7 @@
 | [0904-fruit-into-baskets](https://github.com/Alan20030718/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alan20030718/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Alan20030718/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1046-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Alan20030718/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -505,6 +506,7 @@
 | [0621-task-scheduler](https://github.com/Alan20030718/LeetCode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Alan20030718/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Alan20030718/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1046-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/Alan20030718/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Alan20030718/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Monotonic Queue
